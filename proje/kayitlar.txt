@@ -1,0 +1,8 @@
+arda,turan,321321321,arda123,istanbul,12.12.2000,arda@gmail.com,ar,05423232332
+memet,kasa,3030303030,emir30,ankara,10.01.1990,emirozturk@gmail.com,ac,05423232332
+kaan,turan,321321321,arda123,istanbul,12.12.2000,arda@gmail.com,ar,05423232332
+ahmet,can,987456321,2,as,as.sa.as,sa,ass,ass
+mert,kan,32132a1321,arda123,istanbul,12.12.2000,arda@gmail.com,ar,05423232332
+1,1,1,1,1,1.11.1,1,1,1
+as,as,as,as,as,s.asas.as,sa,as,as
+askjldnla,malsdmasm,217631,12921890,8askljasd,ıaısdjjkalsd.asjkdşkşad.kaldskjlad,,knladslkadlm,kladsldasşoasü,,jldajdkoş

@@ -1,1 +1,1 @@
-# Banka-Sim-lasyon-NYP
+# Banka-Simulasyon-NYP
